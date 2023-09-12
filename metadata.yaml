@@ -1,0 +1,29 @@
+_repo: The-hand-book-of-artillery_71575
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, Joseph J. (Joseph Jenkins)
+    alias: Roberts, Joseph Jenkins, pres. of Liberia
+    birthdate: 1809
+    deathdate: 1876
+    gutenberg_agent_id: '45862'
+    url: http://www.gutenberg.org/2009/agents/45862
+description: ''
+gutenberg_issued: '2023-09-05'
+identifiers:
+  gutenberg: '71575'
+language: en
+pgterms:marc904: https://archive.org/details/handbookofartillrobe
+pgterms:marc905: 20200428024505roberts
+pgterms:marc906: '1861'
+pgterms:marc907: US
+production_note: Brian Coe and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aRichmond :$bJ.W. Randolph, $c1861.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The hand-book of artillery
+url: http://www.gutenberg.org/ebooks/71575
