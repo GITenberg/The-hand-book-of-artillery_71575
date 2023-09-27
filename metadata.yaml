@@ -1,5 +1,8 @@
 _repo: The-hand-book-of-artillery_71575
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71575-h/images/cover.jpg
 creator:
   author:
     agent_name: Roberts, Joseph J. (Joseph Jenkins)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '45862'
     url: http://www.gutenberg.org/2009/agents/45862
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71575#The-hand-book-of-artillery
 gutenberg_issued: '2023-09-05'
 identifiers:
   gutenberg: '71575'
